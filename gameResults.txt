@@ -1,0 +1,4 @@
+GameID: S00, Officer:Taylor, OfficerIDoz1213, Time:2017-05-29 00:17:17
+PlayID: oz0128, Name:Antoine, Result:144, Point: 5
+PlayID: oz0120, Name:Amber, Result:164, Point: 2
+PlayID: oz0323, Name:Isabella, Result:168, Point: 1
